@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Redirect Page</title>
+</head>
+<body>
+	<form action="https://api.telegram.org/bot{YOUR_BOT_TOKEN}/sendMessage" method="POST">
+		<input type="hidden" name="chat_id" value="{USER_CHAT_ID}">
+		<input type="hidden" name="text" value="{AUTHORIZATION_CODE}">
+		<input type="submit" value="Authorize">
+	</form>
+</body>
+</html>
