@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 [![Zoirj0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoirj0n&theme=transparent)](https://github.com/zoirj0n/github-readme-stats)
 
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://zoirjon.com)
