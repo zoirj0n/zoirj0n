@@ -100,4 +100,4 @@ hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://zoirjon.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://zoirjon.com)]
