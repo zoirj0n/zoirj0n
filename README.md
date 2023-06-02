@@ -6,10 +6,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zoirj0n&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=zoirj0n)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
 [![](https://visitcount.itsvg.in/api?id=zoirj0n&icon=5&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can buy me a coffee
