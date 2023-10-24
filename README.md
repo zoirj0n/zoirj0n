@@ -39,7 +39,7 @@ education:
   [
     "Self-Taught Software engineer",
   ]
-company: WOI
+company: FREELANCER
 
 fields_of_interests:
   [
