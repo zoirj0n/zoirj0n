@@ -29,7 +29,7 @@
 
 ---
 <a href="https://komarev.com/ghpvc/?username=zoirj0n">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=zoirj0n&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
