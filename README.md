@@ -36,33 +36,25 @@
 
 ```yaml
 name: Zoirjon Sobirov
-located_in: Abu Dhabi, UAE
+located_in: Djizak, Uzbekistan
 title: Software engineer
 education:
   [
+    "Xiamen University of Malaysia - BHs Software Engineering",
     "Self-Taught Software engineer",
   ]
-company: FREELANCER
 
 fields_of_interests:
   [
-    "Web Development",
+    "Software Development",
     "Data Science",
     "Machine Learning",
-    "Game Development",
     "Cyber Security"
     "DevOps",
   ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-  ]
-  
-currently_learning: ["Docker, Kubernetes and React"]
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
+
+currently_learning: ["Kubernetes and Nuxtjs"]
+hobbies: ["CS2", "PES/FIFA", "Table Tennis", "Comedy"]
 ```
   
 ---  
